@@ -1,0 +1,6 @@
+model_checkpoint_path: "brickBreaker-dqn-1000000"
+all_model_checkpoint_paths: "brickBreaker-dqn-960000"
+all_model_checkpoint_paths: "brickBreaker-dqn-970000"
+all_model_checkpoint_paths: "brickBreaker-dqn-980000"
+all_model_checkpoint_paths: "brickBreaker-dqn-990000"
+all_model_checkpoint_paths: "brickBreaker-dqn-1000000"

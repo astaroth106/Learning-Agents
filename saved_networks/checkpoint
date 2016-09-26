@@ -1,0 +1,6 @@
+model_checkpoint_path: "block-dqn-70000"
+all_model_checkpoint_paths: "block-dqn-30000"
+all_model_checkpoint_paths: "block-dqn-40000"
+all_model_checkpoint_paths: "block-dqn-50000"
+all_model_checkpoint_paths: "block-dqn-60000"
+all_model_checkpoint_paths: "block-dqn-70000"
